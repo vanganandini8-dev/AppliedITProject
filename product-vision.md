@@ -1,14 +1,19 @@
-Product Vision
-FOR (target customer): Every Mobile Users
+# ConnectEvent 
 
-WHO (statement of the need or opportunity): It is an opportunity mostly for iphone users
+## FOR — Target Customer
+International students, university graduates, and jobseekers in Germany who want to discover professional networking and career development opportunities.
 
-THE (product name) : "Reverse Charging", comes under power sharing category
+## WHO — Need or Opportunity
+Need a convenient way to find relevant career fairs, startup meetups, job summits, conferences, and networking events without searching across multiple websites and social media platforms.
 
-THAT (key benefit, compelling reason to use): 
-    Key Benefit: Save the battery from being dead
-    Reason: Gain charge from other users instead of using powerbanks or chargers
+## THE — Product Category
+ConnectEvent is a centralized professional event discovery and exploration platform.
 
-UNLIKE (primary competitive alternative): Google
+## THAT — Key Benefit
+Helps users discover suitable events based on location, industry, interests, dates, language, and participation requirements.
 
-OUR PRODUCT (statement of primary differentiation): Unlike google that powersup battery in a single room, this can be used like wifi or hotspot
+## UNLIKE — Existing Alternatives
+Unlike manually searching event websites, university announcements, social media groups, and general event platforms, which may require users to compare information across different sources.
+
+## OUR PRODUCT — Primary Differentiation
+ConnectEvent brings professional event information into one searchable platform, offering relevant filters, clear event details, registration links, and information about missing or unverified event details.
